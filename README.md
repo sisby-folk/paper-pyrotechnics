@@ -1,6 +1,6 @@
 <!--suppress HtmlDeprecatedTag, XmlDeprecatedElement -->
 <center>
-<img alt="preview" src=""><br/>
+<img alt="preview" src="https://cdn.modrinth.com/data/TOIhmYrN/images/53f0afa7d7920c6e17897ac3966b85f35a08e8be.png"><br/>
 Adds a fire lance. It explodes one time.<br/>
 <b>Requires <a href="https://modrinth.com/mod/connector">Connector</a> and <a href="https://modrinth.com/mod/forgified-fabric-api">FFAPI</a> on (neo)forge.<br/></b>
 </center>
