@@ -1,0 +1,14 @@
+{
+	"parent": "minecraft:item/handheld",
+	"textures": {
+		"layer0": "paper_pyrotechnics:item/fire_lance"
+	},
+	"overrides": [
+		{
+			"predicate": {
+				"paper_pyrotechnics:pyrotechnics_loaded": 1
+			},
+			"model": "paper_pyrotechnics:item/fire_lance_loaded"
+		}
+	]
+}

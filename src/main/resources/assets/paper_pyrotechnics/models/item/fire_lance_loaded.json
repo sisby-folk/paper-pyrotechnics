@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:item/handheld",
+	"textures": {
+		"layer0": "paper_pyrotechnics:item/fire_lance_loaded"
+	}
+}
